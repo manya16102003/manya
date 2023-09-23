@@ -26,8 +26,8 @@
   <a href="https://www.linkedin.com/in/aditya-kumar-820a8b227/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="#" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://leetcode.com/Aditya000567/" target="_blank">
+     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2530%2FPNG%2F512%2Fleetcode_button_icon_151892.png&tbnid=EsoZIR3bpjOxAM&vet=10CAIQxiAoAGoXChMI2KKosJjBgQMVAAAAAB0AAAAAEBY..i&imgrefurl=https%3A%2F%2Ficon-icons.com%2Ficon%2Fleetcode-button%2F151892&docid=IlIb9FtoJGlHpM&w=512&h=130&itg=1&q=leetcode%20icon%20html&ved=0CAIQxiAoAGoXChMI2KKosJjBgQMVAAAAAB0AAAAAEBY" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=cpp,github,python,javascript,c,java" /><br>
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mysql,html,css,vscode,git,CodeBlocks,eclipse" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,mysql,html,css,vscode,git,eclipse" />
 </div>
 
 <br/>
