@@ -9,7 +9,7 @@
 
 <div align="center">
  
- 💻 I’m currently working on **  **
+ 💻 I’m currently working on ** Ticket-Trove, College-Space and Car-Polling Projects **
  
  📝 I’m currently learning ** Js, DSA, MERN **
 
