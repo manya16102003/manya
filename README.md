@@ -9,13 +9,13 @@
 
 <div align="centre">
  
- 💻 I’m currently working on ** Ticket-Trove, College-Space and Car-Polling Projects **
+ 💻 I’m currently working on --> Ticket-Trove, College-Space and Car-Polling Projects 
  
- 📝 I’m currently learning ** Js, DSA, MERN **
+ 📝 I’m currently learning --> Js, DSA, MERN 
 
- 🫡 Ask me about **CSS, HTML, C++, Mysql... or anything [here](https://github.com/Aditya-567/Aditya-567/issues)**
+ 🫡 Ask me about --> CSS, HTML, C++, Mysql... or anything [here](https://github.com/Aditya-567/Aditya-567/issues)
 
- 😁 Fun fact **  It’s impossible to hum while holding your nose  **
+ 😁 Fun fact --> "It’s impossible to hum while holding your nose"
  
  </div>
  
