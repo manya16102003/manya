@@ -1,4 +1,5 @@
-![MasterHead](https://www.bleepstatic.com/content/hl-images/2019/10/28/programming-header.jpg)
+
+![github-header-image (1)](https://github.com/Aditya-567/Aditya-567/assets/106132841/ec2fe690-6c43-44c6-91e0-00c0a8426a27)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Kumar!;" />
 </h1>
