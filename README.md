@@ -6,7 +6,7 @@
 <h2 align="center"> A Pre-final year Computer Science student at UPES Dehradun,Uttarakhand</h2>
 
 <br/>
-
+<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 <div align="left">
  
  💻 I’m currently working on --> Ticket-Trove, College-Space and Car-Polling Projects 
