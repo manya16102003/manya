@@ -4,7 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Kumar!;" />
 </h1>
 <h2 align="center"> A Pre-final year Computer Science student at UPES Dehradun,Uttarakhand</h2>
-
 <br/>
 <table>
 <tr>
@@ -13,7 +12,7 @@
 <img align="center" alt="GIF" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ajwx43swwpzg1hgmyyoxre5orkkt79hjpc61mdse&ep=v1_gifs_search&rid=giphy.gif&ct=g" />             
 </td>
 <td>
-
+<h2> <b>Current Status </b> </h2>
   
  💻 I’m currently working on --> Ticket-Trove, College-Space and Car-Polling Projects
   
@@ -23,13 +22,6 @@
  
  😁 Fun fact --> "It’s impossible to hum while holding your nose" 
 
- 
-</td>
-</tr>
-</table>
-
-
-<div align="left"> 
   <a href="mailto:lextrone000567@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -39,12 +31,13 @@
     <a href="https://leetcode.com/Aditya000567/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank" />
   </a>
+ 
+</td>
+</tr>
+</table>
 
-
-</div>
 
  <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
