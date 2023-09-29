@@ -1,21 +1,26 @@
 
-<img align="center" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Kumar!;" />
 </h1>
 <h2 align="center"> A Pre-final year Computer Science student at UPES Dehradun,Uttarakhand</h2>
+<img align="center" alt="GIF" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" />
 
 <br/>
 
- 
+ <h align="center">
+         
  💻 I’m currently working on --> Ticket-Trove, College-Space and Car-Polling Projects 
- 
+         
  📝 I’m currently learning --> Js, DSA, MERN 
 
  🫡 Ask me about --> CSS, HTML, C++, Mysql... or anything [here](https://github.com/Aditya-567/Aditya-567/issues)
 
  😁 Fun fact --> "It’s impossible to hum while holding your nose"
+ </h>
+ 
+
  
  </div>
  
