@@ -1,6 +1,5 @@
 
-  
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-567.Aditya-567" />
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-567.Aditya-567" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Kumar!;" />
 </h1>
@@ -11,7 +10,7 @@
 <tr>
 <td>
 <!-- REMOVE THE BACKSLASHES -->
-<img align="center" alt="GIF" src="https://images6.fanpop.com/image/photos/37500000/Chi-typing-on-a-computer-chis-sweet-home-chis-new-address-37597964-320-240.gif" />             
+<img align="center" alt="GIF" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ajwx43swwpzg1hgmyyoxre5orkkt79hjpc61mdse&ep=v1_gifs_search&rid=giphy.gif&ct=g" />             
 </td>
 <td>
 
