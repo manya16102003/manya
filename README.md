@@ -1,4 +1,4 @@
-
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Kumar!;" />
 </h1>
@@ -6,7 +6,7 @@
 <h2 align="center"> A Pre-final year Computer Science student at UPES Dehradun,Uttarakhand</h2>
 
 <br/>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+
 <div align="left">
  
  💻 I’m currently working on --> Ticket-Trove, College-Space and Car-Polling Projects 
