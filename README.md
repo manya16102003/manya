@@ -33,8 +33,8 @@
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank" />
   </a>
   </a>
-    <a href="https://leetcode.com/Aditya000567/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=instagram&logoColor=yellow" target="_blank" />
+    <a href="https://www.instagram.com/aditya_kumar0056/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-rgb(230, 64, 95)?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
   </a>
  
 </td>
