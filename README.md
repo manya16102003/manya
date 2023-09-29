@@ -1,6 +1,4 @@
-
-[![MasterHead](https://www.behance.net/gallery/68097599/Banner-Images-for-Coding-Challenges/modules/398083399)
-  
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aditya+Kumar!;" />
 </h1>
@@ -13,7 +11,7 @@
 <img align="center" alt="GIF" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ajwx43swwpzg1hgmyyoxre5orkkt79hjpc61mdse&ep=v1_gifs_search&rid=giphy.gif&ct=g" />             
 </td>
 <td>
-<h2 style="color:blue"> <b>Current Status </b> </h2>
+<h2 style="color:blue"> <b>Current Status </b> <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Aditya-567.Aditya-567" /></h2>
   
  - 💻 I’m currently working on --> Ticket-Trove, College-Space and Car-Polling Projects
   
