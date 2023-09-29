@@ -13,7 +13,7 @@
 <img align="center" alt="GIF" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47ajwx43swwpzg1hgmyyoxre5orkkt79hjpc61mdse&ep=v1_gifs_search&rid=giphy.gif&ct=g" />             
 </td>
 <td>
-<h2 style="color:blue;"> <b>Current Status </b> </h2>
+<h2 style="color:blue"> <b>Current Status </b> </h2>
   
  - 💻 I’m currently working on --> Ticket-Trove, College-Space and Car-Polling Projects
   
