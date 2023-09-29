@@ -32,6 +32,10 @@
     <a href="https://leetcode.com/Aditya000567/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=yellow" target="_blank" />
   </a>
+  </a>
+    <a href="https://leetcode.com/Aditya000567/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=instagram&logoColor=yellow" target="_blank" />
+  </a>
  
 </td>
 </tr>
